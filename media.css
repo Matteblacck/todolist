@@ -1,0 +1,38 @@
+@media(max-width:1700px){
+    .container {
+        max-width: 1000px; 
+        padding-left: 20px; 
+        padding-right: 20px;  
+    }
+
+}
+@media(max-width:1250px){
+    .container {
+        max-width: 800px; 
+        padding-left: 20px; 
+        padding-right: 20px;  
+    }
+
+}
+@media(max-width:1000px){
+    .container {
+        max-width: 600px; 
+        padding-left: 20px; 
+        padding-right: 20px;  
+    }
+    .add-task-wrapper {
+        width: 80%;
+    }
+
+}
+@media(max-width:700px){
+    .container {
+        max-width: 400px; 
+        padding-left: 20px; 
+        padding-right: 20px;  
+    }
+    .add-task-wrapper {
+        width: 80%;
+    }
+
+}
